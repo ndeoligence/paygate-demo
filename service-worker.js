@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/paygate-demo/precache-manifest.e15c9f261e788dbc559380e0a00a3a14.js"
+  "/paygate-demo/precache-manifest.bfa7b1b7a4cb5b423e6ccf777d6b18d2.js"
 );
 
 self.addEventListener('message', (event) => {
