@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b93f6cd31c457aea909328a6a3474e77",
+    "revision": "34d735691bd86ef6319af26eced78074",
     "url": "/paygate-demo/index.html"
   },
   {
-    "revision": "0a68b0e3a4bab7471439",
+    "revision": "95a5905a93ab56a68f9b",
     "url": "/paygate-demo/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/paygate-demo/static/js/2.e3339124.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0a68b0e3a4bab7471439",
-    "url": "/paygate-demo/static/js/main.206c54a3.chunk.js"
+    "revision": "95a5905a93ab56a68f9b",
+    "url": "/paygate-demo/static/js/main.2a7ef1c3.chunk.js"
   },
   {
     "revision": "26edd81d3eac1e86ae91",
