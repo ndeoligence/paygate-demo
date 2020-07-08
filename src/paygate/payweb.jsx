@@ -32,7 +32,7 @@ class PayWeb extends Component {
             'REFERENCE'         : 'pgtest_123456789',
             'AMOUNT'            : 3299,
             'CURRENCY'          : 'ZAR',
-            'RETURN_URL'        : 'https://nwpub.herokuapp.com/pubs',
+            'RETURN_URL'        : 'https://ndeoligence.github.io/paygate-demo',
             'TRANSACTION_DATE'  : this.fmt(new Date()),
             'LOCALE'            : 'en-za',
             'COUNTRY'           : 'ZAF',
