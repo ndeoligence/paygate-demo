@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/paygate-demo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/paygate-demo/static/js/main.206c54a3.chunk.js",
+    "main.js.map": "/paygate-demo/static/js/main.206c54a3.chunk.js.map",
+    "runtime-main.js": "/paygate-demo/static/js/runtime-main.7bd6e1e3.js",
+    "runtime-main.js.map": "/paygate-demo/static/js/runtime-main.7bd6e1e3.js.map",
+    "static/js/2.e3339124.chunk.js": "/paygate-demo/static/js/2.e3339124.chunk.js",
+    "static/js/2.e3339124.chunk.js.map": "/paygate-demo/static/js/2.e3339124.chunk.js.map",
+    "index.html": "/paygate-demo/index.html",
+    "precache-manifest.b4b587718e370655a32f9bb23bcb7b70.js": "/paygate-demo/precache-manifest.b4b587718e370655a32f9bb23bcb7b70.js",
+    "service-worker.js": "/paygate-demo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/paygate-demo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e3339124.chunk.js.LICENSE.txt": "/paygate-demo/static/js/2.e3339124.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/paygate-demo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bd6e1e3.js",
+    "static/js/2.e3339124.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.206c54a3.chunk.js"
+  ]
+}
